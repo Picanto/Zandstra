@@ -16,9 +16,10 @@ class ShopProduct
 }
 
 $product1 = new ShopProduct();
-print $product1->title;
-
-$product2 = new ShopProduct();
 
 $product1->title = "Собачье сердце";
-$product2->title = "Ревизор";
+$product1->producerMainName = "Булгаков";
+$product1->producerFirstName = "Михаил";
+$product1->price = 5.99;
+
+print "Автор: {$product1->getProducer()}\n";
