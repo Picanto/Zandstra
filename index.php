@@ -2,24 +2,27 @@
 
 class ShopProduct
 {
-	public $title					= "Стандартный товар";
-	public $producerMainName		= "Фамилия автора";
-	public $producerFirstName		= "Имя автора";
-	public $price					= 0;
+    public $title = "Стандартный товар";
+    public $producerMainName = "Фамилия автора";
+    public $producerFirstName = "Имя автора";
+    public $price = 0;
 
-	function getProducer()
-	{
-		return 	"{$this->producerFirstName} "
-				."{$this->producerMainName}";	
-	}
+    function __construct($title, $firstName, $mainName, $price)
+    {
+        $this->title = $title;
+        $this->producerFirstName = $firstName;
+        $this->producerMainName = $mainName;
+        $this->price = $price;
+    }
+
+    function getProducer()
+    {
+        return "{$this->producerFirstName} "
+            . "{$this->producerMainName}";
+    }
 
 }
 
-$product1 = new ShopProduct();
+$product = new ShopProduct("Собачье сердце", "Михаил", "Булгаков", "5.99");
 
-$product1->title = "Собачье сердце";
-$product1->producerMainName = "Булгаков";
-$product1->producerFirstName = "Михаил";
-$product1->price = 5.99;
-
-print "Автор: {$product1->getProducer()}\n";
+print "Автор: {$product->getProducer()}\n";
