@@ -1,0 +1,300 @@
+<?xml version = '1.0' encoding = 'windows-1251'?>
+<ROWSET>
+   <ROW num="1">
+      <RN>48538213001</RN>
+      <QNTY>47</QNTY>
+      <RSV>0</RSV>
+      <PRICE>1650</PRICE>
+      <CURRENCY>RUB</CURRENCY>
+      <SALEFLAG>мер</SALEFLAG>
+      <TERR>85858701837</TERR>
+   </ROW>
+   <ROW num="2">
+      <RN>48538235001</RN>
+      <QNTY>16</QNTY>
+      <RSV>0</RSV>
+      <PRICE>1650</PRICE>
+      <CURRENCY>RUB</CURRENCY>
+      <SALEFLAG>мер</SALEFLAG>
+      <TERR>85858701837</TERR>
+   </ROW>
+   <ROW num="3">
+      <RN>48538267001</RN>
+      <QNTY>1</QNTY>
+      <RSV>0</RSV>
+      <PRICE>1650</PRICE>
+      <CURRENCY>RUB</CURRENCY>
+      <SALEFLAG>мер</SALEFLAG>
+      <TERR>85862724811</TERR>
+   </ROW>
+   <ROW num="4">
+      <RN>48537861001</RN>
+      <QNTY>6</QNTY>
+      <RSV>0</RSV>
+      <PRICE>1300</PRICE>
+      <CURRENCY>RUB</CURRENCY>
+      <SALEFLAG>мер</SALEFLAG>
+      <TERR>85858701837</TERR>
+   </ROW>
+   <ROW num="5">
+      <RN>48537632001</RN>
+      <QNTY>79</QNTY>
+      <RSV>0</RSV>
+      <PRICE>1300</PRICE>
+      <CURRENCY>RUB</CURRENCY>
+      <SALEFLAG>мер</SALEFLAG>
+      <TERR>85858701837</TERR>
+   </ROW>
+   <ROW num="6">
+      <RN>48539664001</RN>
+      <QNTY>6</QNTY>
+      <RSV>0</RSV>
+      <PRICE>2350</PRICE>
+      <CURRENCY>RUB</CURRENCY>
+      <SALEFLAG>мер</SALEFLAG>
+      <TERR>85858701837</TERR>
+   </ROW>
+   <ROW num="7">
+      <RN>48539664001</RN>
+      <QNTY>1</QNTY>
+      <RSV>0</RSV>
+      <PRICE>2350</PRICE>
+      <CURRENCY>RUB</CURRENCY>
+      <SALEFLAG>мер</SALEFLAG>
+      <TERR>86507343514</TERR>
+   </ROW>
+   <ROW num="8">
+      <RN>48539746001</RN>
+      <QNTY>1</QNTY>
+      <RSV>0</RSV>
+      <PRICE>2350</PRICE>
+      <CURRENCY>RUB</CURRENCY>
+      <SALEFLAG>мер</SALEFLAG>
+      <TERR>85862724811</TERR>
+   </ROW>
+   <ROW num="9">
+      <RN>48539746001</RN>
+      <QNTY>1</QNTY>
+      <RSV>0</RSV>
+      <PRICE>2350</PRICE>
+      <CURRENCY>RUB</CURRENCY>
+      <SALEFLAG>мер</SALEFLAG>
+      <TERR>85862721761</TERR>
+   </ROW>
+   <ROW num="10">
+      <RN>48539861001</RN>
+      <QNTY>1</QNTY>
+      <RSV>0</RSV>
+      <PRICE>2350</PRICE>
+      <CURRENCY>RUB</CURRENCY>
+      <SALEFLAG>мер</SALEFLAG>
+      <TERR>85858701837</TERR>
+   </ROW>
+   <ROW num="11">
+      <RN>48539835001</RN>
+      <QNTY>1</QNTY>
+      <RSV>0</RSV>
+      <PRICE>2350</PRICE>
+      <CURRENCY>RUB</CURRENCY>
+      <SALEFLAG>мер</SALEFLAG>
+      <TERR>86885048779</TERR>
+   </ROW>
+   <ROW num="12">
+      <RN>58436645001</RN>
+      <QNTY>1</QNTY>
+      <RSV>0</RSV>
+      <PRICE>3000</PRICE>
+      <CURRENCY>RUB</CURRENCY>
+      <SALEFLAG>мер</SALEFLAG>
+      <TERR>86885048779</TERR>
+   </ROW>
+   <ROW num="13">
+      <RN>48539351001</RN>
+      <QNTY>20</QNTY>
+      <RSV>0</RSV>
+      <PRICE>8500</PRICE>
+      <CURRENCY>RUB</CURRENCY>
+      <SALEFLAG>мер</SALEFLAG>
+      <TERR>85858701837</TERR>
+   </ROW>
+   <ROW num="14">
+      <RN>48539392001</RN>
+      <QNTY>22</QNTY>
+      <RSV>0</RSV>
+      <PRICE>8500</PRICE>
+      <CURRENCY>RUB</CURRENCY>
+      <SALEFLAG>мер</SALEFLAG>
+      <TERR>85858701837</TERR>
+   </ROW>
+   <ROW num="15">
+      <RN>48539378001</RN>
+      <QNTY>25</QNTY>
+      <RSV>0</RSV>
+      <PRICE>8500</PRICE>
+      <CURRENCY>RUB</CURRENCY>
+      <SALEFLAG>мер</SALEFLAG>
+      <TERR>85858701837</TERR>
+   </ROW>
+   <ROW num="16">
+      <RN>48539285001</RN>
+      <QNTY>22</QNTY>
+      <RSV>0</RSV>
+      <PRICE>8500</PRICE>
+      <CURRENCY>RUB</CURRENCY>
+      <SALEFLAG>мер</SALEFLAG>
+      <TERR>85858701837</TERR>
+   </ROW>
+   <ROW num="17">
+      <RN>48538982001</RN>
+      <QNTY>1</QNTY>
+      <RSV>0</RSV>
+      <PRICE>8500</PRICE>
+      <CURRENCY>RUB</CURRENCY>
+      <SALEFLAG>мер</SALEFLAG>
+      <TERR>86885048779</TERR>
+   </ROW>
+   <ROW num="18">
+      <RN>48538982001</RN>
+      <QNTY>48</QNTY>
+      <RSV>0</RSV>
+      <PRICE>8500</PRICE>
+      <CURRENCY>RUB</CURRENCY>
+      <SALEFLAG>мер</SALEFLAG>
+      <TERR>85858701837</TERR>
+   </ROW>
+   <ROW num="19">
+      <RN>48538982001</RN>
+      <QNTY>1</QNTY>
+      <RSV>0</RSV>
+      <PRICE>8500</PRICE>
+      <CURRENCY>RUB</CURRENCY>
+      <SALEFLAG>мер</SALEFLAG>
+      <TERR>85862721761</TERR>
+   </ROW>
+   <ROW num="20">
+      <RN>48539134001</RN>
+      <QNTY>25</QNTY>
+      <RSV>0</RSV>
+      <PRICE>8500</PRICE>
+      <CURRENCY>RUB</CURRENCY>
+      <SALEFLAG>мер</SALEFLAG>
+      <TERR>85858701837</TERR>
+   </ROW>
+   <ROW num="21">
+      <RN>48539010001</RN>
+      <QNTY>33</QNTY>
+      <RSV>0</RSV>
+      <PRICE>8500</PRICE>
+      <CURRENCY>RUB</CURRENCY>
+      <SALEFLAG>мер</SALEFLAG>
+      <TERR>85858701837</TERR>
+   </ROW>
+   <ROW num="22">
+      <RN>48539166001</RN>
+      <QNTY>25</QNTY>
+      <RSV>0</RSV>
+      <PRICE>8500</PRICE>
+      <CURRENCY>RUB</CURRENCY>
+      <SALEFLAG>мер</SALEFLAG>
+      <TERR>85858701837</TERR>
+   </ROW>
+   <ROW num="23">
+      <RN>48539418001</RN>
+      <QNTY>17</QNTY>
+      <RSV>0</RSV>
+      <PRICE>8500</PRICE>
+      <CURRENCY>RUB</CURRENCY>
+      <SALEFLAG>мер</SALEFLAG>
+      <TERR>85858701837</TERR>
+   </ROW>
+   <ROW num="24">
+      <RN>48539064001</RN>
+      <QNTY>23</QNTY>
+      <RSV>0</RSV>
+      <PRICE>8500</PRICE>
+      <CURRENCY>RUB</CURRENCY>
+      <SALEFLAG>мер</SALEFLAG>
+      <TERR>85858701837</TERR>
+   </ROW>
+   <ROW num="25">
+      <RN>48539254001</RN>
+      <QNTY>1</QNTY>
+      <RSV>0</RSV>
+      <PRICE>8500</PRICE>
+      <CURRENCY>RUB</CURRENCY>
+      <SALEFLAG>мер</SALEFLAG>
+      <TERR>87613721870</TERR>
+   </ROW>
+   <ROW num="26">
+      <RN>48539254001</RN>
+      <QNTY>17</QNTY>
+      <RSV>0</RSV>
+      <PRICE>8500</PRICE>
+      <CURRENCY>RUB</CURRENCY>
+      <SALEFLAG>мер</SALEFLAG>
+      <TERR>85858701837</TERR>
+   </ROW>
+   <ROW num="27">
+      <RN>48538708001</RN>
+      <QNTY>18</QNTY>
+      <RSV>0</RSV>
+      <PRICE>11100</PRICE>
+      <CURRENCY>RUB</CURRENCY>
+      <SALEFLAG>мер</SALEFLAG>
+      <TERR>85858701837</TERR>
+   </ROW>
+   <ROW num="28">
+      <RN>48538930001</RN>
+      <QNTY>1</QNTY>
+      <RSV>0</RSV>
+      <PRICE>11100</PRICE>
+      <CURRENCY>RUB</CURRENCY>
+      <SALEFLAG>мер</SALEFLAG>
+      <TERR>85862725549</TERR>
+   </ROW>
+   <ROW num="29">
+      <RN>48538930001</RN>
+      <QNTY>25</QNTY>
+      <RSV>0</RSV>
+      <PRICE>11100</PRICE>
+      <CURRENCY>RUB</CURRENCY>
+      <SALEFLAG>мер</SALEFLAG>
+      <TERR>85858701837</TERR>
+   </ROW>
+   <ROW num="30">
+      <RN>48538816001</RN>
+      <QNTY>10</QNTY>
+      <RSV>0</RSV>
+      <PRICE>11100</PRICE>
+      <CURRENCY>RUB</CURRENCY>
+      <SALEFLAG>мер</SALEFLAG>
+      <TERR>85858701837</TERR>
+   </ROW>
+   <ROW num="31">
+      <RN>48538768001</RN>
+      <QNTY>14</QNTY>
+      <RSV>0</RSV>
+      <PRICE>11100</PRICE>
+      <CURRENCY>RUB</CURRENCY>
+      <SALEFLAG>мер</SALEFLAG>
+      <TERR>85858701837</TERR>
+   </ROW>
+   <ROW num="32">
+      <RN>48615556001</RN>
+      <QNTY>1</QNTY>
+      <RSV>0</RSV>
+      <PRICE>800</PRICE>
+      <CURRENCY>RUB</CURRENCY>
+      <SALEFLAG>мер</SALEFLAG>
+      <TERR>86885048779</TERR>
+   </ROW>
+   <ROW num="33">
+      <RN>60475015001</RN>
+      <QNTY>68</QNTY>
+      <RSV>0</RSV>
+      <PRICE>800</PRICE>
+      <CURRENCY>RUB</CURRENCY>
+      <SALEFLAG>мер</SALEFLAG>
+      <TERR>85858701837</TERR>
+   </ROW>
+</ROWSET>
