@@ -1,6 +1,6 @@
 <?php
 
-class ShopProduct
+class shopProduct
 {
     public $title = "Стандартный товар";
     public $producerMainName = "Фамилия автора";
@@ -23,12 +23,19 @@ class ShopProduct
 
 }
 
-$product = new ShopProduct("Собачье сердце", "Михаил", "Булгаков", "5.99");
+class shopProductWriter
+{
+    public function write(ShopProduct $shopProduct)
+    {
+        $str = "{$shopProduct->title}: "
+            . $shopProduct->getProducer()
+            . "({$shopProduct->price})\n";
+        print $str;
+    }
+}
 
-print "Автор: {$product->getProducer()}\n";
+$product1 = new ShopProduct("Собачье сердце", "Михаил", "Булгаков", "5.99");
 
-$settings = simplexml_load_file("catalog_chain.xml");
+$writer = new shopProductWriter($product1);
 
-echo '<pre>';
-var_dump($settings);
-echo '</pre>';
+$writer->write($product1);
