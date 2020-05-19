@@ -7,7 +7,7 @@ class ShopProduct
     public $producerFirstName = "Имя автора";
     public $price = 0;
 
-    function __construct($title, $firstName, $mainName, $price)
+    public function __construct($title, $firstName, $mainName, $price)
     {
         $this->title = $title;
         $this->producerFirstName = $firstName;
@@ -15,7 +15,7 @@ class ShopProduct
         $this->price = $price;
     }
 
-    function getProducer()
+    public function getProducer()
     {
         return "{$this->producerFirstName} "
             . "{$this->producerMainName}";
@@ -26,3 +26,9 @@ class ShopProduct
 $product = new ShopProduct("Собачье сердце", "Михаил", "Булгаков", "5.99");
 
 print "Автор: {$product->getProducer()}\n";
+
+$settings = simplexml_load_file("catalog_chain.xml");
+
+echo '<pre>';
+var_dump($settings);
+echo '</pre>';
