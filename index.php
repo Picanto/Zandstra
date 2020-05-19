@@ -39,3 +39,7 @@ $product1 = new ShopProduct("Собачье сердце", "Михаил", "Бу
 $writer = new shopProductWriter($product1);
 
 $writer->write($product1);
+
+class wrong {}
+$writer1 = new shopProductWriter();
+$writer1->write(new wrong());
